@@ -12,7 +12,7 @@ module.exports = {
         lightBlue300: "#4b94ed",
         lightBlue500: "#0b72e7",
         greenLight: "#61cea6",
-        greayText: "#6818597",
+        grayText: "#818597",
         lightGray: "#e2e2e2",
         grayBlue: "344a6c",
         deepblueHead: "#162f56",
